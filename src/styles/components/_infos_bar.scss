@@ -11,11 +11,11 @@
         gap: 40px;
 
         &__item {
-        display: flex;      
+        font-size: 14px;
         color: variables.$secondaryTextColor;
-        display: block;
 
             b {
+                color: variables.$secondaryTextColor;
                 font-size: 18px;
                 display: block;
             }

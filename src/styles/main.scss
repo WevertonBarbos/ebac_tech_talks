@@ -9,7 +9,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Roboto, sans-serif;
-    color: variables.$secondaryTextColor;
+    color: variables.$textColor;
+    list-style: none;
 }
 
 .container {
